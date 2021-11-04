@@ -311,3 +311,4 @@
 
 # print(f'Media:', total_notas '\n', 'oi')
 
+print('Teste de Git')
