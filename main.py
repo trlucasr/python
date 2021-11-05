@@ -300,13 +300,13 @@
 
 # my_function(nome)
 
-n1, n2, n3, n4 = input().split()
+# n1, n2, n3, n4 = input().split()
 
-n1 = float(n1) * 2
-n2 = float(n2) * 3
-n3 = float(n3) * 4
-n4 = float(n4) * 1
+# n1 = float(n1) * 2
+# n2 = float(n2) * 3
+# n3 = float(n3) * 4
+# n4 = float(n4) * 1
 
-total_notas = n1 + n2 + n3 + n4 / 10
+# total_notas = n1 + n2 + n3 + n4 / 10
 
-print(f'Media:', total_notas '\n', 'oi')
+# print(f'Media:', total_notas '\n', 'oi')
