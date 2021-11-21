@@ -1,13 +1,9 @@
 from __future__ import print_function
 import os.path
-import re
-import requests
-import json
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
-from pprint import pprint
 from flask import Flask, render_template
 
 # instancia flask no app
@@ -62,8 +58,6 @@ def buscareg():
 @app.route("/crie")
 def pagecrie():        
     return render_template("crie.html", len = len(buscareg()) , registros = buscareg())
-
-
 
 if __name__ == '__main__':   
     app.run(use_reloader = True, debug = True)
