@@ -64,6 +64,5 @@ def pagecrie():
     return render_template("crie.html", len = len(buscareg()) , registros = buscareg())
 
 
-
 if __name__ == '__main__':   
     app.run(use_reloader = True, debug = True)
