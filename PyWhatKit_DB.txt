@@ -1,0 +1,45 @@
+Date: 30/11/2021
+Time: 21:18
+Phone Number: +5511994698426
+Message: Teste de mensagem com PywhatKit
+--------------------
+Date: 30/11/2021
+Time: 21:19
+Phone Number: +5511994698426
+Message: Teste de mensagem com PywhatKit
+--------------------
+Date: 30/11/2021
+Time: 21:22
+Phone Number: +5511994698426
+Message: Teste de mensagem com PywhatKit
+--------------------
+Date: 30/11/2021
+Time: 21:24
+Phone Number: +5511994698426
+Message: Teste de mensagem com PywhatKit
+--------------------
+Date: 30/11/2021
+Time: 21:25
+Phone Number: +5511963090434
+Message: Teste de mensagem com PywhatKit meu amo
+--------------------
+Date: 30/11/2021
+Time: 21:26
+Phone Number: +5511994698426
+Message: Teste de mensagem com PywhatKit
+--------------------
+Date: 30/11/2021
+Time: 21:27
+Phone Number: +5511963090434
+Message: Teste de mensagem com PywhatKit meu amo
+--------------------
+Date: 30/11/2021
+Time: 21:29
+Phone Number: +5511994698426
+Message: Teste de mensagem com PywhatKit
+--------------------
+Date: 30/11/2021
+Time: 21:30
+Phone Number: +5511963090434
+Message: Teste de mensagem com PywhatKit meu amo
+--------------------
