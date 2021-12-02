@@ -1,0 +1,10 @@
+Date: 30/11/2021
+Time: 21:42
+Phone Number: +5511994698426
+Message: Teste de mensagem com PywhatKit
+--------------------
+Date: 30/11/2021
+Time: 21:45
+Group ID: Jonathan Cunha
+Message: Teste de mensagem automática FOUNDTI
+--------------------
