@@ -1,9 +1,7 @@
 # Programação Orientada a Objetos
 # AC03 ADS-EaD - Implementação de classes, herança, polimorfismo e lançamento de exceções.
 #
-# Email Impacta: joel.santos@aluno.faculdadeimpacta.com.br
-
-
+# Email Impacta: lucas.2103070@aluno.faculdadeimpacta.com.br
 class Produto:
 
     def __init__(self, nome, preco):
